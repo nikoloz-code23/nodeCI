@@ -1,5 +1,5 @@
 function powerOfTwo(number) {
-    return number**2;
+    return number**3;
 }
 
 module.exports = powerOfTwo;
